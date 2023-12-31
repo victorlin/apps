@@ -1,3 +1,6 @@
 [submodule "html-random-quote"]
 	path = html-random-quote
 	url = https://github.com/victorlin/html-random-quote
+[submodule "html-blank"]
+	path = html-blank
+	url = https://github.com/victorlin/html-blank
