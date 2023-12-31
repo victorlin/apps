@@ -4,3 +4,6 @@
 [submodule "html-blank"]
 	path = html-blank
 	url = https://github.com/victorlin/html-blank
+[submodule "html-music-player"]
+	path = html-music-player
+	url = https://github.com/victorlin/html-music-player
