@@ -7,3 +7,6 @@
 [submodule "html-music-player"]
 	path = html-music-player
 	url = https://github.com/victorlin/html-music-player
+[submodule "text-input-preview"]
+	path = text-input-preview
+	url = https://github.com/victorlin/text-input-preview
