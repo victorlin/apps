@@ -10,3 +10,6 @@
 [submodule "text-input-preview"]
 	path = text-input-preview
 	url = https://github.com/victorlin/text-input-preview
+[submodule "electricity-usage"]
+	path = electricity-usage
+	url = https://github.com/victorlin/electricity-usage
