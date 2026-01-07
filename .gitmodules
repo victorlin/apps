@@ -13,3 +13,6 @@
 [submodule "electricity-usage"]
 	path = electricity-usage
 	url = https://github.com/victorlin/electricity-usage
+[submodule "vietnamese-clipboard-reader"]
+	path = vietnamese-clipboard-reader
+	url = https://github.com/victorlin/vietnamese-clipboard-reader
